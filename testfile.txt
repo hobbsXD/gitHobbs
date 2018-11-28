@@ -1,0 +1,5 @@
+       4      25     126
+Hello World
+adding more text to this file
+using the VIM editor to edit this file
+• using the OPEN command to edit this file
